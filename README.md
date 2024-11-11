@@ -20,7 +20,7 @@ Text that is not a quote
 [This is the link for dillinger](https://dillinger.io/)
 
 # Images
-![Screenshot of octocat](https://cdn1.byjus.com/wp-content/uploads/2022/09/Dot-Product-Of-Two-Vectors-2.png)
+![Screenshot of vectors](https://cdn1.byjus.com/wp-content/uploads/2022/09/Dot-Product-Of-Two-Vectors-2.png)
 
 # Lists
 ### Unordered
